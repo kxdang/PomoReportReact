@@ -1,0 +1,7 @@
+.PomodoroReport {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    margin: 0 25%;
+    font-size: 20px;
+}
